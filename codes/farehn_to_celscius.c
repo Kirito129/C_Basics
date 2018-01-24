@@ -5,7 +5,7 @@
  Sample OUTPUT:
  The Tempareture in celcius is: 7.222222
  */
-#include <Stdio.h>
+#include <stdio.h>
 
 void main()
 {
