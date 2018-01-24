@@ -1,6 +1,6 @@
 // this is program for swaping of two variable using 3rd varialbe.
 
-# include <stdio.h>
+#include <stdio.h>
 
 void main()
 {
